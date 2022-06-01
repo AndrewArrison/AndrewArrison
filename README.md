@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Alwin
 #### I am a indie game developer
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Languages: JAVA / PYTHON / C++ / LUA
+FrameWorks : LibGDX / Pygame / SFML / SDL2 / OpenGL
 
 - 🔭 I’m currently working on A Game (small kind of) 
 - 🌱 I’m currently learning LibGDX 
