@@ -2,6 +2,7 @@
 #### I am a indie game developer
 
 Languages: JAVA / PYTHON / C++ / LUA
+</br>
 FrameWorks : LibGDX / Pygame / SFML / SDL2 / OpenGL
 
 - 🔭 I’m currently working on A Game (small kind of) 
