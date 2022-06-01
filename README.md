@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Alwin
 ### I am a indie game developer
 
-####Skills
+#### Skills
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,java,lua,mysql,php,py,)](https://skills.thijs.gg)
 </br>
 FrameWorks : LibGDX / Pygame / SFML / SDL2 / OpenGL
