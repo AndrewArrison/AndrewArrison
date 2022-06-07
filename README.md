@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://stackoverflow.com/users/alwinra](https://stackoverflow.com/users/19282355/alwinra)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alwinra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19282355/alwinra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alwinra" height="30" width="40" /></a>
 <a href="https://fb.com/alwin r ajeesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alwin r ajeesh" height="30" width="40" /></a>
 <a href="https://instagram.com/alwin_r_ajeesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alwin_r_ajeesh" height="30" width="40" /></a>
 </p>
