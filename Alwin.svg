@@ -276,5 +276,4 @@
         fill="freeze" />
     <animateMotion href="#UAS-mainframe" dur="1s" begin="sky.end+0.2s" fill="freeze" path="M-157.5259,640,0,0"
         id="mainframe" />
-
 </svg>
