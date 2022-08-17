@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alwin</h1>
 </br>
 
-<h3 align="center">A frontend and backend developer from God's own country</h3>
+<h3 align="center">A frontend and backend developer and Indie Game dev from God's own country</h3>
 
 - 🔭 I’m currently working on :  **404**
 
