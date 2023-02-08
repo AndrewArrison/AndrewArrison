@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently working on :  **404**
 
-- 🌱 I’m currently learning : **SDL2, LibGDX, OpenGl**
+- 🌱 I’m currently learning : **MonoGame**
 
 - ⚡ Fun fact : **IHaveLotOfPatience**
-- ⚡ Fun fact2 : **IAm16**
+- ⚡ Fun fact2 : **IAm17**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
