@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Alwin</h1>
 </br>
 
-<h3 align="center">A frontend and backend developer and Indie Game dev from God's own country</h3>
+<h3 align="center">A Indie Game dev from God's own country</h3>
 
-- 🔭 I’m currently working on :  **404**
+- 🔭 I’m currently working on :  **2DGameEngine**
 
-- 🌱 I’m currently learning : **MonoGame**
+- 🌱 I’m currently learning : **OpenGL**
 
 - ⚡ Fun fact : **IHaveLotOfPatience**
 - ⚡ Fun fact2 : **IAm17**
