@@ -54,9 +54,6 @@
 </div>
 
 ###  
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alwinra&show_icons=true&locale=en&layout=compact" alt="alwinra" /></p>
-
 ###  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewArrison&" alt="AndrewArrison" /></p>
